@@ -1,0 +1,16 @@
+{"host":"52.79.55.103", 
+"user":"doz2", 
+"pw":"test1324", 
+"database":"doz2", 
+
+"files":
+[
+"cw_itemtype.csv"
+],
+
+"ready":
+[
+"cw_bossinfo.csv", 
+"cw_itemtype.csv",
+"cw_product_refresh.csv"
+]}
